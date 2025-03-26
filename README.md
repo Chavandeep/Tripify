@@ -1,4 +1,4 @@
-Tripify – AI-Powered Travel Itinerary Planner
+ Tripify – AI-Powered Travel Itinerary Planner
 🚀 Tripify is a smart travel website that helps users plan personalized itineraries using AI. It suggests attractions, activities, dining options, and more based on user preferences, travel history, and real-time data.
 
 🌟 Features
